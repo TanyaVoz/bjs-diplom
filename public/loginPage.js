@@ -1,6 +1,6 @@
 'use strict';
 
-const userForm = new userForm();
+const userForm = new UserForm();
 
 //вход
 userForm.loginFormCallback = (data) => {
